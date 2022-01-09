@@ -2,7 +2,7 @@ from sense_hat import SenseHat
 
 sense = SenseHat()
 
-names = ["ISABELLE", "SANDRA", "CARLOS", "LYON"]
+names = ["BOB", "JILL", "JACK", "SARAH"]
 
 color_one = (227, 5, 101)
 color_two = (255, 0, 0)
